@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PagingKotlinDemo</string>
+    <string name="text_title">demo title</string>
+    <string name="text_description">demo description</string>
+</resources>
